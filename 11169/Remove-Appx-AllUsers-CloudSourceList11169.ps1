@@ -69,7 +69,7 @@ Begin {
 
     # Black List of Appx Provisioned Packages to Remove for All Users
     $BlackListedAppsURL = $null
-    $BlackListedAppsURL = "https://github.com/PROLAN-OSKE/Intune/blob/main/pdg-11169.txt"
+    $BlackListedAppsURL = "https://github.com/PROLAN-OSKE/Intune/blob/main/11169/pdg-11169.txt"
     Write-LogEntry -Value "BlackListedAppsURL:$($BlackListedAppsURL)"
 
     #Attempt to obtain list of BlackListedApps
@@ -171,4 +171,5 @@ Process {
         Write-Output "No Black List Apps defined in array"
         Write-LogEntry -Value "No Black List Apps defined in array"
     }
+
 }
