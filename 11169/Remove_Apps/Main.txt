@@ -1,1 +1,2 @@
-
+Als Skript auf Geräte Anwenden
+https://raw.githubusercontent.com/PROLAN-OSKE/Intune/main/11169/pdg-11169.txt
