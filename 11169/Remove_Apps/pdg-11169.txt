@@ -45,4 +45,5 @@ Microsoft.Teams
 MicrosoftWindows.Client.WebExperience
 #Microsoft.SkypeApp
 #Dropbox
+#DropboxInc.Dropbox
 #5A894077.McAfeeSecurity
