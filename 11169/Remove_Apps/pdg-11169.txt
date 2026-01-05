@@ -47,3 +47,4 @@ MicrosoftWindows.Client.WebExperience
 #Dropbox
 #DropboxInc.Dropbox
 #5A894077.McAfeeSecurity
+#Microsoft.OutlookForWindows
